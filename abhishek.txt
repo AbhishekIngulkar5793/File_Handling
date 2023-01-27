@@ -1,0 +1,4 @@
+only one time write operation
+once we run the program and after that if we
+try to write something then it won/t allow
+it will raise and file exists error
